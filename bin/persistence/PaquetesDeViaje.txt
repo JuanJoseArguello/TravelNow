@@ -1,0 +1,6 @@
+idPaquete,destino,precioBase,cantidadDisponible
+1234,Miami,1000,3
+4312,Madrid,1500,3
+6543,BuenosAires,1300,3
+9876,Caracas,1500,3
+8372,SaoPaulo,500,3
